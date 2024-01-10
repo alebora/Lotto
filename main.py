@@ -1,6 +1,6 @@
 #Lotto 6/49 Simulation
 
-#Five add ons:
+#Add ons:
 #1.Timer count down
 #2.Asks and uses name and capitalizes
 #3.Ascending order
